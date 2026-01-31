@@ -5,3 +5,4 @@ numpy
 joblib
 pydub
 soundfile
+python-dotenv
