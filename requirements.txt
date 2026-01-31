@@ -1,8 +1,10 @@
 fastapi
 uvicorn
-librosa
 numpy
+librosa
 joblib
 pydub
 soundfile
+scikit-learn
 python-dotenv
+xgboost
